@@ -23,6 +23,8 @@
 
 1. 张柏恺, 杨德刚, **冯骥**. 一种去除聚类数量和邻域参数设置的自适应聚类算法[J]. 计算机工程与科学, 2021, 43(10): 1838–1847.
 
+1. Ran R, **Feng J**, Zhang S, 等. A General Matrix Function Dimensionality Reduction Framework and Extension for Manifold Learning[J]. IEEE Transactions on Cybernetics, 2020: 1–12.
+
 1. **冯骥**, 伍思雨, 王琛越. 基于因子分析与K-means聚类算法的P2P网贷平台风险评估模型[J]. 重庆师范大学学报(自然科学版), 2020, 37(05): 96–102.
 
 1. 伍思雨, **冯骥**. 基于改进VGGNet卷积神经网络的鲜花识别[J]. 重庆师范大学学报(自然科学版), 2020, 37(04): 124–131.
@@ -34,8 +36,6 @@
 1. Zhu Q, **Feng J**, Huang J. Natural neighbor: A self-adaptive neighborhood method without parameter K[J]. Pattern Recognition Letters, 2016, 80: 30–36.
 
 1. Zhu Q, **Feng J**, Huang J. Weighted natural neighborhood graph: an adaptive structure for clustering and outlier detection with no neighborhood parameter[J]. Cluster Computing, 2016, 19(3): 1385–1397.
-
-1. Ran R, **Feng J**, Zhang S, 等. A General Matrix Function Dimensionality Reduction Framework and Extension for Manifold Learning[J]. IEEE Transactions on Cybernetics, 2020: 1–12.
 
 1. **冯骥**, 张程, 朱庆生. 一种具有动态邻域特点的自适应最近邻居算法[J]. 计算机科学, 2017, 44(12): 194–201.
 
